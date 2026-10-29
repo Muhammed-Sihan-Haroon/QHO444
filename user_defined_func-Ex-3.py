@@ -5,6 +5,7 @@ def area(w, h):
     return w * h
 
 print(area(3,4))
+
 print(double(3))
 
 a = int(input("Enter a width: "))
